@@ -1,3 +1,5 @@
+Warning: this repository is obsolete, its content has been moved to https://github.com/NASA-PDS/registry-api/tree/main/lexer
+
 # PDS API Search Query Lexer
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5768845.svg)](https://doi.org/10.5281/zenodo.5768845)
